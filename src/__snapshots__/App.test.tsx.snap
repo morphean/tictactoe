@@ -1,0 +1,358 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`it matches snapshot Matches snapshot 1`] = `
+<div
+  className="css-view-1dbjc4n r-flex-13awgt0"
+>
+  <div
+    className="css-view-1dbjc4n r-alignItems-1awozwy r-display-6koalj r-justifyContent-1777fci"
+  >
+    <div
+      className="css-view-1dbjc4n r-paddingBottom-l4nmg1 r-paddingLeft-nk90ef r-paddingRight-14q5wjw r-paddingTop-vmopo1"
+    >
+      <div
+        className="css-text-901oao r-color-1njgeiw r-fontSize-1i10wst r-fontStyle-13uqrnb r-fontWeight-1vr29t4 r-letterSpacing-oxtfae r-lineHeight-dhbnww r-paddingBottom-iphfwy"
+        dir="auto"
+      >
+        Let's play Tic Tac Toe
+      </div>
+    </div>
+    <div
+      className="css-view-1dbjc4n r-flex-13awgt0"
+    >
+      <div
+        className="css-view-1dbjc4n r-flexDirection-18u37iz"
+      >
+        <div
+          className="css-view-1dbjc4n"
+        >
+          <div
+            className="css-view-1dbjc4n r-flexDirection-18u37iz"
+          >
+            <div
+              className="css-view-1dbjc4n"
+            >
+              <div
+                className="css-cursor-18t94o4 css-view-1dbjc4n r-alignItems-1awozwy r-borderColor-g944k3 r-borderRadius-1jkafct r-borderWidth-rs99b7 r-cursor-1loqt21 r-flexDirection-18u37iz r-height-1ewlvqg r-justifyContent-1777fci r-paddingBottom-kzbkwu r-paddingLeft-f727ji r-paddingRight-j2kj52 r-paddingTop-ttdzmv r-touchAction-1otgn73 r-userSelect-lrvibr r-width-u68iu3"
+                onBlur={[Function]}
+                onClick={[Function]}
+                onContextMenu={[Function]}
+                onFocus={[Function]}
+                onKeyDown={[Function]}
+                role="button"
+                tabIndex="0"
+              >
+                <div
+                  className="css-view-1dbjc4n r-alignItems-1awozwy r-flexDirection-18u37iz"
+                >
+                  <div
+                    className="css-view-1dbjc4n"
+                  >
+                    <div
+                      className="css-text-901oao r-alignSelf-1kihuf0 r-color-1njgeiw r-fontSize-1i10wst r-fontStyle-13uqrnb r-fontWeight-1vr29t4 r-letterSpacing-oxtfae r-lineHeight-dhbnww r-textTransform-tsynxw"
+                      dir="auto"
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              className="css-view-1dbjc4n r-width-8hc5te"
+            />
+            <div
+              className="css-view-1dbjc4n"
+            >
+              <div
+                className="css-cursor-18t94o4 css-view-1dbjc4n r-alignItems-1awozwy r-borderColor-g944k3 r-borderRadius-1jkafct r-borderWidth-rs99b7 r-cursor-1loqt21 r-flexDirection-18u37iz r-height-1ewlvqg r-justifyContent-1777fci r-paddingBottom-kzbkwu r-paddingLeft-f727ji r-paddingRight-j2kj52 r-paddingTop-ttdzmv r-touchAction-1otgn73 r-userSelect-lrvibr r-width-u68iu3"
+                onBlur={[Function]}
+                onClick={[Function]}
+                onContextMenu={[Function]}
+                onFocus={[Function]}
+                onKeyDown={[Function]}
+                role="button"
+                tabIndex="0"
+              >
+                <div
+                  className="css-view-1dbjc4n r-alignItems-1awozwy r-flexDirection-18u37iz"
+                >
+                  <div
+                    className="css-view-1dbjc4n"
+                  >
+                    <div
+                      className="css-text-901oao r-alignSelf-1kihuf0 r-color-1njgeiw r-fontSize-1i10wst r-fontStyle-13uqrnb r-fontWeight-1vr29t4 r-letterSpacing-oxtfae r-lineHeight-dhbnww r-textTransform-tsynxw"
+                      dir="auto"
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              className="css-view-1dbjc4n r-width-8hc5te"
+            />
+            <div
+              className="css-view-1dbjc4n"
+            >
+              <div
+                className="css-cursor-18t94o4 css-view-1dbjc4n r-alignItems-1awozwy r-borderColor-g944k3 r-borderRadius-1jkafct r-borderWidth-rs99b7 r-cursor-1loqt21 r-flexDirection-18u37iz r-height-1ewlvqg r-justifyContent-1777fci r-paddingBottom-kzbkwu r-paddingLeft-f727ji r-paddingRight-j2kj52 r-paddingTop-ttdzmv r-touchAction-1otgn73 r-userSelect-lrvibr r-width-u68iu3"
+                onBlur={[Function]}
+                onClick={[Function]}
+                onContextMenu={[Function]}
+                onFocus={[Function]}
+                onKeyDown={[Function]}
+                role="button"
+                tabIndex="0"
+              >
+                <div
+                  className="css-view-1dbjc4n r-alignItems-1awozwy r-flexDirection-18u37iz"
+                >
+                  <div
+                    className="css-view-1dbjc4n"
+                  >
+                    <div
+                      className="css-text-901oao r-alignSelf-1kihuf0 r-color-1njgeiw r-fontSize-1i10wst r-fontStyle-13uqrnb r-fontWeight-1vr29t4 r-letterSpacing-oxtfae r-lineHeight-dhbnww r-textTransform-tsynxw"
+                      dir="auto"
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            className="css-view-1dbjc4n r-height-1xbve24"
+          />
+          <div
+            className="css-view-1dbjc4n r-flexDirection-18u37iz"
+          >
+            <div
+              className="css-view-1dbjc4n"
+            >
+              <div
+                className="css-cursor-18t94o4 css-view-1dbjc4n r-alignItems-1awozwy r-borderColor-g944k3 r-borderRadius-1jkafct r-borderWidth-rs99b7 r-cursor-1loqt21 r-flexDirection-18u37iz r-height-1ewlvqg r-justifyContent-1777fci r-paddingBottom-kzbkwu r-paddingLeft-f727ji r-paddingRight-j2kj52 r-paddingTop-ttdzmv r-touchAction-1otgn73 r-userSelect-lrvibr r-width-u68iu3"
+                onBlur={[Function]}
+                onClick={[Function]}
+                onContextMenu={[Function]}
+                onFocus={[Function]}
+                onKeyDown={[Function]}
+                role="button"
+                tabIndex="0"
+              >
+                <div
+                  className="css-view-1dbjc4n r-alignItems-1awozwy r-flexDirection-18u37iz"
+                >
+                  <div
+                    className="css-view-1dbjc4n"
+                  >
+                    <div
+                      className="css-text-901oao r-alignSelf-1kihuf0 r-color-1njgeiw r-fontSize-1i10wst r-fontStyle-13uqrnb r-fontWeight-1vr29t4 r-letterSpacing-oxtfae r-lineHeight-dhbnww r-textTransform-tsynxw"
+                      dir="auto"
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              className="css-view-1dbjc4n r-width-8hc5te"
+            />
+            <div
+              className="css-view-1dbjc4n"
+            >
+              <div
+                className="css-cursor-18t94o4 css-view-1dbjc4n r-alignItems-1awozwy r-borderColor-g944k3 r-borderRadius-1jkafct r-borderWidth-rs99b7 r-cursor-1loqt21 r-flexDirection-18u37iz r-height-1ewlvqg r-justifyContent-1777fci r-paddingBottom-kzbkwu r-paddingLeft-f727ji r-paddingRight-j2kj52 r-paddingTop-ttdzmv r-touchAction-1otgn73 r-userSelect-lrvibr r-width-u68iu3"
+                onBlur={[Function]}
+                onClick={[Function]}
+                onContextMenu={[Function]}
+                onFocus={[Function]}
+                onKeyDown={[Function]}
+                role="button"
+                tabIndex="0"
+              >
+                <div
+                  className="css-view-1dbjc4n r-alignItems-1awozwy r-flexDirection-18u37iz"
+                >
+                  <div
+                    className="css-view-1dbjc4n"
+                  >
+                    <div
+                      className="css-text-901oao r-alignSelf-1kihuf0 r-color-1njgeiw r-fontSize-1i10wst r-fontStyle-13uqrnb r-fontWeight-1vr29t4 r-letterSpacing-oxtfae r-lineHeight-dhbnww r-textTransform-tsynxw"
+                      dir="auto"
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              className="css-view-1dbjc4n r-width-8hc5te"
+            />
+            <div
+              className="css-view-1dbjc4n"
+            >
+              <div
+                className="css-cursor-18t94o4 css-view-1dbjc4n r-alignItems-1awozwy r-borderColor-g944k3 r-borderRadius-1jkafct r-borderWidth-rs99b7 r-cursor-1loqt21 r-flexDirection-18u37iz r-height-1ewlvqg r-justifyContent-1777fci r-paddingBottom-kzbkwu r-paddingLeft-f727ji r-paddingRight-j2kj52 r-paddingTop-ttdzmv r-touchAction-1otgn73 r-userSelect-lrvibr r-width-u68iu3"
+                onBlur={[Function]}
+                onClick={[Function]}
+                onContextMenu={[Function]}
+                onFocus={[Function]}
+                onKeyDown={[Function]}
+                role="button"
+                tabIndex="0"
+              >
+                <div
+                  className="css-view-1dbjc4n r-alignItems-1awozwy r-flexDirection-18u37iz"
+                >
+                  <div
+                    className="css-view-1dbjc4n"
+                  >
+                    <div
+                      className="css-text-901oao r-alignSelf-1kihuf0 r-color-1njgeiw r-fontSize-1i10wst r-fontStyle-13uqrnb r-fontWeight-1vr29t4 r-letterSpacing-oxtfae r-lineHeight-dhbnww r-textTransform-tsynxw"
+                      dir="auto"
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            className="css-view-1dbjc4n r-height-1xbve24"
+          />
+          <div
+            className="css-view-1dbjc4n r-flexDirection-18u37iz"
+          >
+            <div
+              className="css-view-1dbjc4n"
+            >
+              <div
+                className="css-cursor-18t94o4 css-view-1dbjc4n r-alignItems-1awozwy r-borderColor-g944k3 r-borderRadius-1jkafct r-borderWidth-rs99b7 r-cursor-1loqt21 r-flexDirection-18u37iz r-height-1ewlvqg r-justifyContent-1777fci r-paddingBottom-kzbkwu r-paddingLeft-f727ji r-paddingRight-j2kj52 r-paddingTop-ttdzmv r-touchAction-1otgn73 r-userSelect-lrvibr r-width-u68iu3"
+                onBlur={[Function]}
+                onClick={[Function]}
+                onContextMenu={[Function]}
+                onFocus={[Function]}
+                onKeyDown={[Function]}
+                role="button"
+                tabIndex="0"
+              >
+                <div
+                  className="css-view-1dbjc4n r-alignItems-1awozwy r-flexDirection-18u37iz"
+                >
+                  <div
+                    className="css-view-1dbjc4n"
+                  >
+                    <div
+                      className="css-text-901oao r-alignSelf-1kihuf0 r-color-1njgeiw r-fontSize-1i10wst r-fontStyle-13uqrnb r-fontWeight-1vr29t4 r-letterSpacing-oxtfae r-lineHeight-dhbnww r-textTransform-tsynxw"
+                      dir="auto"
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              className="css-view-1dbjc4n r-width-8hc5te"
+            />
+            <div
+              className="css-view-1dbjc4n"
+            >
+              <div
+                className="css-cursor-18t94o4 css-view-1dbjc4n r-alignItems-1awozwy r-borderColor-g944k3 r-borderRadius-1jkafct r-borderWidth-rs99b7 r-cursor-1loqt21 r-flexDirection-18u37iz r-height-1ewlvqg r-justifyContent-1777fci r-paddingBottom-kzbkwu r-paddingLeft-f727ji r-paddingRight-j2kj52 r-paddingTop-ttdzmv r-touchAction-1otgn73 r-userSelect-lrvibr r-width-u68iu3"
+                onBlur={[Function]}
+                onClick={[Function]}
+                onContextMenu={[Function]}
+                onFocus={[Function]}
+                onKeyDown={[Function]}
+                role="button"
+                tabIndex="0"
+              >
+                <div
+                  className="css-view-1dbjc4n r-alignItems-1awozwy r-flexDirection-18u37iz"
+                >
+                  <div
+                    className="css-view-1dbjc4n"
+                  >
+                    <div
+                      className="css-text-901oao r-alignSelf-1kihuf0 r-color-1njgeiw r-fontSize-1i10wst r-fontStyle-13uqrnb r-fontWeight-1vr29t4 r-letterSpacing-oxtfae r-lineHeight-dhbnww r-textTransform-tsynxw"
+                      dir="auto"
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              className="css-view-1dbjc4n r-width-8hc5te"
+            />
+            <div
+              className="css-view-1dbjc4n"
+            >
+              <div
+                className="css-cursor-18t94o4 css-view-1dbjc4n r-alignItems-1awozwy r-borderColor-g944k3 r-borderRadius-1jkafct r-borderWidth-rs99b7 r-cursor-1loqt21 r-flexDirection-18u37iz r-height-1ewlvqg r-justifyContent-1777fci r-paddingBottom-kzbkwu r-paddingLeft-f727ji r-paddingRight-j2kj52 r-paddingTop-ttdzmv r-touchAction-1otgn73 r-userSelect-lrvibr r-width-u68iu3"
+                onBlur={[Function]}
+                onClick={[Function]}
+                onContextMenu={[Function]}
+                onFocus={[Function]}
+                onKeyDown={[Function]}
+                role="button"
+                tabIndex="0"
+              >
+                <div
+                  className="css-view-1dbjc4n r-alignItems-1awozwy r-flexDirection-18u37iz"
+                >
+                  <div
+                    className="css-view-1dbjc4n"
+                  >
+                    <div
+                      className="css-text-901oao r-alignSelf-1kihuf0 r-color-1njgeiw r-fontSize-1i10wst r-fontStyle-13uqrnb r-fontWeight-1vr29t4 r-letterSpacing-oxtfae r-lineHeight-dhbnww r-textTransform-tsynxw"
+                      dir="auto"
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            className="css-view-1dbjc4n r-height-1xbve24"
+          />
+          <div
+            className="css-view-1dbjc4n r-flexDirection-18u37iz r-justifyContent-1777fci"
+          >
+            <div
+              className="css-text-901oao r-color-1njgeiw r-fontSize-1b43r93 r-fontStyle-13uqrnb r-fontWeight-16dba41 r-letterSpacing-oxtfae r-lineHeight-dhbnww"
+              dir="auto"
+            >
+              Your turn: Player 1
+            </div>
+          </div>
+          <div
+            className="css-view-1dbjc4n r-height-1xbve24"
+          />
+          <div
+            className="css-view-1dbjc4n r-flexDirection-18u37iz r-justifyContent-1777fci"
+          >
+            <div
+              className="css-cursor-18t94o4 css-view-1dbjc4n r-alignItems-1awozwy r-borderColor-g944k3 r-borderRadius-z2wwpe r-borderWidth-rs99b7 r-cursor-1loqt21 r-flexDirection-18u37iz r-justifyContent-1777fci r-paddingBottom-1mi0q7o r-paddingLeft-f727ji r-paddingRight-j2kj52 r-paddingTop-m611by r-touchAction-1otgn73 r-userSelect-lrvibr"
+              onBlur={[Function]}
+              onClick={[Function]}
+              onContextMenu={[Function]}
+              onFocus={[Function]}
+              onKeyDown={[Function]}
+              role="button"
+              tabIndex="0"
+            >
+              <div
+                className="css-view-1dbjc4n r-alignItems-1awozwy r-flexDirection-18u37iz"
+              >
+                <div
+                  className="css-view-1dbjc4n"
+                >
+                  <div
+                    className="css-text-901oao r-color-1njgeiw r-fontSize-1b43r93 r-fontStyle-13uqrnb r-fontWeight-b88u0q r-letterSpacing-oxtfae r-lineHeight-dhbnww"
+                    dir="auto"
+                  >
+                    Reset
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
